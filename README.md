@@ -4,6 +4,10 @@
 
 I build **scalable software solutions** that leverage the power of **AI and ML** for enhanced user experiences and operational efficiency. With over 5 years of experience, I specialize in designing and deploying **cloud-native applications**, **microservices architectures**, and **intelligent systems**. My work seamlessly integrates backend development with advanced **ML models**, ensuring robust and efficient applications.  
 
+<img src="graduation.png" width="400" align="right" alt="UF Graduation Photo"/>
+
+🎓 **Education**: University of Florida Graduate
+
 ---
 
 ### 🔥 Key Expertise:  
@@ -15,12 +19,24 @@ I build **scalable software solutions** that leverage the power of **AI and ML**
 
 ---
 
+### 🤝 Community Engagement:
+- 🎤 **Conference Speaker & Attendee**: Active participant at PyCon US and other tech conferences
+- 👥 **Tech Community Builder**: Engaging with developer communities and sharing knowledge
+- 🌟 **Mentorship**: Contributing to the growth of aspiring developers
+  
+
+<img src="party.png" width="500" align="center" alt="UF Graduation Photo"/> <img src="anaconda.png" width="400" align="right" alt="UF Graduation Photo"/> 
+
+---
+
 ### 🔧 Tech Stack:  
 - **Programming Languages**: Python, SQL, Bash  
 - **Frameworks & Tools**: FastAPI, Docker, Kubernetes, MLflow, DVC  
 - **Cloud & DevOps**: Azure, AWS, GitHub Actions, Terraform, Prometheus, Grafana  
 - **Database Systems**: PostgreSQL, MongoDB  
-- **Machine Learning & AI**: PyTorch, Huggingface, Langchain, OpenAI API  
+- **Machine Learning & AI**: PyTorch, Huggingface, Langchain, OpenAI API
+
+<img src="pycon.png" width="300" align="right" alt="At PyConUS"/>
 
 ---
 
