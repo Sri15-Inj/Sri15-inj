@@ -25,7 +25,7 @@ I build **scalable software solutions** that leverage the power of **AI and ML**
 - 🌟 **Mentorship**: Contributing to the growth of aspiring developers
   
 
-<img src="party.png" width="400" align="right" alt="UF Graduation Photo"/> <img src="anacondas.png" width="400" align="center" alt="UF Graduation Photo"/> 
+<img src="party.png" width="400" align="center" alt="Pycon"/> <img src="anacondas.png" width="400" align="right" alt="Pycon"/> 
 
 ---
 
